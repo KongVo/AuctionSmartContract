@@ -14,8 +14,11 @@ requirements.
 
 Install:
 npm install truffle-assertions
+
 npm install web3
+
 mpm install ganache-cli
+
 
 Run:
 ganache-cli
