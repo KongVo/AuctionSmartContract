@@ -13,12 +13,14 @@ to the respective person once they are outbid.
 requirements. 
 
 Install:
+
 npm install truffle-assertions
 
 npm install web3
 
-mpm install ganache-cli
+npm install ganache-cli
 
 
 Run:
+
 ganache-cli
